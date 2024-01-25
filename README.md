@@ -2,8 +2,8 @@
 
 
 
-- 🌱 I’m currently learning ReactJs
-- ✨ My knowledges: HTML, CSS, Javascript and ReactJs
+- 🌱 I’m currently learning React Native
+- ✨ My knowledges: HTML, CSS, Javascript, ReactJs and React Native
 - 🔭 I’m currently working on improving myself
 - ⚡ Fun fact: The word “strengths” is the longest word in the English language with only one vowel.
 <!--
